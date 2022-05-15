@@ -4,8 +4,8 @@ anyways im here to mainly make:
 - sites
 - stupid programs
 - VERY stupid programs
-i don't have anything to post here,, uhh
-heres my socials:
+
+i don't have anything to post here, so uhm. Heres my socials:
 - discord: nthprsnl#8623
 
 <!---
