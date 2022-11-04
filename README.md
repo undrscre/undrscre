@@ -6,9 +6,4 @@ anyways im here to mainly make:
 - VERY stupid programs
 
 i don't have anything to post here, so uhm. Heres my socials:
-- discord: nthprsnl#8623
-
-<!---
-nthprsnl/nthprsnl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- discord: nth#8623
