@@ -1,5 +1,5 @@
 # 👋 Heya, I’m @nthprsnl
-😂 thanks github for handling my awkward social introduction for me!
+thanks github for handling my awkward social introduction for me,  
 anyways im here to mainly make:
 - sites
 - stupid programs
