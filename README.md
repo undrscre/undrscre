@@ -6,7 +6,7 @@ anyways im here to mainly make:
 - VERY stupid programs
 
 i don't have anything to post here, so uhm. Heres my socials:
-- discord: nth#8623
+- discord: <@916244340454621214>
 
 ```python
 import consciousness
