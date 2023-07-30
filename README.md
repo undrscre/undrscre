@@ -6,8 +6,9 @@ anyways im here to mainly make:
 - VERY stupid programs
 
 i don't have anything to post here, so uhm. Heres my socials:
-- discord: <@916244340454621214>
-
+- discord: `nthprsnl`
+- cohost: `https://cohost.org/-nth`
+  
 ```python
 import consciousness
 import time
