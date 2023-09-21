@@ -1,14 +1,5 @@
-# 👋 Heya, I’m @nthprsnl
-thanks github for handling my awkward social introduction for me,  
-anyways im here to mainly make:
-- sites
-- stupid programs
-- VERY stupid programs
-
-i don't have anything to post here, so uhm. Heres my socials:
-- discord: `nthprsnl`
-- cohost: `https://cohost.org/-nth`
-  
+# 👋 whats good, welcome to my profile
+i don't have anything to say right now, but welcome!
 ```python
 import consciousness
 import time
