@@ -3,8 +3,8 @@
 ---
 # Hello world!
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=nkkls&show_icons=true&theme=radical" align="right">
-<p style="width:200px;">
+<img width=450 src="https://github-readme-stats.vercel.app/api?username=nkkls&show_icons=true&theme=radical" align="right">
+<p>
     <img src="https://github.com/nkkls/nkkls/assets/105597411/e71f2679-8e05-4c26-a35d-cba94007725f" align="left">
     Welcome to my github profile!<br><br>I usually host my projects and stuff here.<br> Right now it's currently going under cleanup..
 </p>
