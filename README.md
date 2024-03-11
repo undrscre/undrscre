@@ -3,14 +3,18 @@
 ---
 # Hello world!
 <p>
-    <img src="https://github.com/nkkls/nkkls/assets/105597411/e71f2679-8e05-4c26-a35d-cba94007725f" align="right">
-    Welcome to my github profile!<br> I usually host my projects and stuff here.<br> Right now the profile is currently going under cleanup..
+<img src="https://github-readme-stats.vercel.app/api?username=nkkls&show_icons=true&theme=radical" align="right">
+<p style="width:200px;">
+    <img src="https://github.com/nkkls/nkkls/assets/105597411/e71f2679-8e05-4c26-a35d-cba94007725f" align="left">
+    Welcome to my github profile!<br><br>I usually host my projects and stuff here.<br> Right now it's currently going under cleanup..
 </p>
+
 <p>
-    <img src="https://github.com/nkkls/nkkls/assets/105597411/efb1388f-3da3-42fd-bf85-6617f9a97a43" align="right">
+    <img src="https://github.com/nkkls/nkkls/assets/105597411/efb1388f-3da3-42fd-bf85-6617f9a97a43" align="left">
     if you'd like to contact, please;
-    <ul>
-      <li>dm me at `@undrscre` on discord! or</li>
-      <li>@niko@lethallava.land` if you're fancy</li>
-    </ul>
+    <dl>
+      <dd>dm me at @undrscre on discord! or<br>
+          @niko@lethallava.land if you're fancy</dd>
+    </dl>
+</p>
 </p>
