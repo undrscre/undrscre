@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/1126600573538545704/1216415718019698828/cooltext453763626649135.gif?ex=66004e6b&is=65edd96b&hm=211625a3bad5fcfc34809bcee50643c61a2132fdcd4e6ba08baa9f42f8a98fb3&" style="width:1000px">
+<img src="meowmeow.gif" style="width:1000px">
 
 ---
 # Hello world!
